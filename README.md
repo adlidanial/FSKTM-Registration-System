@@ -8,3 +8,7 @@ Collaboration with team members:
 4. Ean Yong Huey
 5. Muhammad Adli Danial Bin Rahmat
 6. Nurannisa
+
+
+Description:
+Developing GUI Java and functionality from the system to implement a subject registration for a student in university.
